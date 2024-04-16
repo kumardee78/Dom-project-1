@@ -37,4 +37,40 @@ Open the index.html file in a web browser. You should see the div element with i
 
 Make changes to the JavaScript code in script.js file as per your requirements, and refresh the browser to see the updated styles applied to the div element.
 
+### Live Version
+
+You can view the live version of this project [here](https://your-live-version-link.com).
+
+#### To view the hosted version of the project, follow these steps:
+
+1. Open a web browser.
+2. Visit the following URL: https://kumardee78.github.io/Dom-project-1/
+
+### Installation
+
+If you want to run this project locally, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+git clone https://github.com/kumardee78/Dom-project-1.git
+
+markdown
+Copy code
+
+2. Navigate to the project directory.
+
+3. Open the `index.html` file in a web browser.
+
+### Contributing
+
+If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a new Pull Request.
+
+
 
