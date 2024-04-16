@@ -18,22 +18,14 @@ The HTML file contains a div element with an id of textDiv. This is the element 
 
 ## Here's a breakdown of what you can do:
 
-#### Change Color: 
-Use style.color.
-#### Change Background Color: 
-Use style.backgroundColor.
-#### Adjust Margin: 
-Use style.margin.
-#### Adjust Padding: 
-Use style.padding.
-#### Change Font Size: 
-Use style.fontSize.
-#### Change Font Weight: 
-Use style.fontWeight.
-#### Adjust Height: 
-Use style.height.
-#### Adjust Width: 
-Use style.width. 
+* Change Color: Use style.color.
+* Change Background Color: Use style.backgroundColor.
+* Adjust Margin: Use style.margin.
+* Adjust Padding: Use style.padding.
+* Change Font Size: Use style.fontSize.
+* Change Font Weight: Use style.fontWeight.
+* Adjust Height: Use style.height.
+* Adjust Width: Use style.width. 
 
 Modify the JavaScript code according to your requirements, and save the file.
 
