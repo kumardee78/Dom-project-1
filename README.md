@@ -16,6 +16,7 @@ This repository contains code demonstrating how to dynamically change the style 
 The HTML file contains a <div> element with an id of targetDiv. This is the element whose style we will be manipulating dynamically using JavaScript.
 
 #### html code
+
 <div id="wrapper"><!-- Content Goes Here --></div>
 
 * Create script tag : it's just above closing tag of body. you will write JavaScript code how to manipulate the style of the <div> element. Manipulate the <div> Styles:
