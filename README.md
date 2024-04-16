@@ -37,11 +37,14 @@ Open the index.html file in a web browser. You should see the div element with i
 
 Make changes to the JavaScript code in script.js file as per your requirements, and refresh the browser to see the updated styles applied to the div element.
 
+
+
+
 ### Live Version
 
 You can view the live version of this project [here](https://your-live-version-link.com).
 
-#### To view the hosted version of the project, follow these steps:
+### To view the hosted version of the project, follow these steps:
 
 1. Open a web browser.
 2. Visit the following URL: https://kumardee78.github.io/Dom-project-1/
